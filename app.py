@@ -19,3 +19,5 @@ def index():
 @app.route("/home")
 def home():
     return render_template("home.html")
+
+# A lot of TODOs
